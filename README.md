@@ -1,6 +1,6 @@
 # -Personalized-Greeting-App-
 # Ask for the user's name
-name = input("What is your name? Leonard")
+name = input("What is your name? ")
 
 # Ask for the user's favorite color
 favorite_color = input("What is your favorite color? ")
