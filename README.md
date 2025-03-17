@@ -1,5 +1,4 @@
 # -Personalized-Greeting-App-
- Personalized Greeting App 
 # Ask for the user's name
 name = input("What is your name? Leonard")
 
